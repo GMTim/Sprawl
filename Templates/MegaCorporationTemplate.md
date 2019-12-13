@@ -1,10 +1,10 @@
 # Mega Corporation
-## Tag Line
+_**Towards The Dawn**_
 
-### Special Interests
+## Special Interests
 - **Intrest Name**
 
-### Products
+## Products
 
 #### Product Type
 - **Name** - _Type_
