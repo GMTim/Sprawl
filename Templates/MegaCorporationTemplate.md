@@ -6,7 +6,7 @@ _**Towards The Dawn**_
 
 ## Products
 
-#### Product Type
+### Product Type
 - **Name** - _Type_
 
 ---
