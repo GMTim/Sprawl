@@ -9,19 +9,19 @@ _**Towards The Dawn**_
 ## Products
 
 ### Armor
-- **Cauldron Sunrisor's Vintage™** - _Synth Leathers_
+- **Cauldron: Sunrisor's Vintage™** - _Synth Leathers_
 
 ### Cyberware
-- **Cauldron Net Of Keplri™** - _Cyper-Comms_
+- **Cauldron: Net Of Keplri™** - _Cyper-Comms_
 
 ### Drones
-- **Cauldron SCARAB™** - _Octocopter_
+- **Cauldron: SCARAB™** - _Small Octocopter_
 
 ### Vehicles
-- **Cauldron Living Cauldron™** - _Civilian Car_
+- **Cauldron: Living Cauldron™** - _Civilian Car_
 
 ### Weapons
-- **Cauldron Respiratory System Exploitation Grenade™** - _Gas Grenade_
+- **Cauldron: Respiratory System Exploitation Grenade™** - _Gas Grenade_
 
 ---
 [Back](../)
